@@ -1,0 +1,22 @@
+{
+  "name": "getparking",
+  "version": "1.0.0",
+  "description": "Citt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcaguirre-CL/getparking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcaguirre-CL/getparking/issues"
+  },
+  "homepage": "https://github.com/jcaguirre-CL/getparking#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
