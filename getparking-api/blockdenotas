@@ -1,0 +1,11 @@
+restart
+npm install --save-dev nodemon
+
+"scripts": {
+    "start": "node ./bin/www",
+    "devstart": "nodemon ./bin/www"
+  },
+
+DEBUG=getparking-api:* npm run devstart
+
+
